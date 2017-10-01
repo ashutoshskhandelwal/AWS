@@ -1,0 +1,1 @@
+Lambda function to read file from S3, Untar the file and store back decompressed file back to s3.
